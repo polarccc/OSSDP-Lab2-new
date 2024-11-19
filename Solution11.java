@@ -28,7 +28,7 @@ import java.util.Arrays;
  * 输出：[[0,0,0]]
  * 解释：唯一可能的三元组和为 0 。
  */
-class Solution {
+class Solution11 {
     public List<List<Integer>> threeSum(int[] nums) {
         int n = nums.length();
         Arrays.sort(nums);

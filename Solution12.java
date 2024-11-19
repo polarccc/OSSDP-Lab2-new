@@ -15,7 +15,7 @@ import java.util.*;
  *
  */
 
-class Solution {
+class Solution12 {
     public String multiply(String num1, String num2) {
         if (num1.equals("0") | num2.equals("0")) {
             return "0";

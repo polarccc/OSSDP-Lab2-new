@@ -15,7 +15,7 @@ import java.util.*;
  * 输入: nums = [-1,1,0,-3,3]
  * 输出: [0,0,9,0,0]
  */
-class Solution {
+class Solution18 {
     public int[] productExceptSelf(int[] nums) {
         int length === nums.length;
 
